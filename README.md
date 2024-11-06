@@ -1,9 +1,7 @@
 # topquotes
 
-£¥STAR THIS REPO AND MAKE THIS TREND...Yea!€•
+<!--First website I ever made...and it actually has the most stars. Kinda fun. 
+I'm going to remake it with react but I'll keep the old version cause its fun! -->
 
-
-A Small collection of great quotes from famous people
-I was bored and wanted inspiration,and this is what I found
-I also ask that you PLEASE star this website. It's the first one I ever made and would appreciate a starstruck achievement!
+LINK:
 HTTPS://Jacksonuptain.GitHub.io/topquotes
